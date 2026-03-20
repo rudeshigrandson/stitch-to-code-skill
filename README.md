@@ -1,6 +1,6 @@
 # 🎨 Design ZIP to App Generator
 
-> Convert Stitch design exports into production-ready applications for Web, iOS, Android, and Flutter — with aggressive component extraction, design system generation, and auto-navigation.
+> Convert Stitch design exports into production-ready ui components for Web, iOS, Android, and Flutter — with aggressive component extraction, design system generation, and auto-navigation.
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=for-the-badge&logo=anthropic)](https://claude.ai)
 [![Platforms](https://img.shields.io/badge/Platforms-React%20%7C%20SwiftUI%20%7C%20Compose%20%7C%20Flutter-blue?style=for-the-badge)]()
